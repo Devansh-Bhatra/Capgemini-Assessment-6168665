@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "firstName": "Devansh",
+      "lastName": "Bhatra",
+      "email": "devansh@test.com",
+      "phone": "9876543210",
+      "address": "Jaipur Rajasthan"
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "email": "rahul@test.com",
+      "phone": "9123456789",
+      "address": "Delhi India"
+    }
+  ]
+}
